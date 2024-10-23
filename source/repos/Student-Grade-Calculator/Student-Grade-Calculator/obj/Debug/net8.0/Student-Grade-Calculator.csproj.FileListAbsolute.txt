@@ -1,0 +1,14 @@
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\bin\Debug\net8.0\Student-Grade-Calculator.exe
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\bin\Debug\net8.0\Student-Grade-Calculator.deps.json
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\bin\Debug\net8.0\Student-Grade-Calculator.runtimeconfig.json
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\bin\Debug\net8.0\Student-Grade-Calculator.dll
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\bin\Debug\net8.0\Student-Grade-Calculator.pdb
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\Student-Grade-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\Student-Grade-Calculator.AssemblyInfoInputs.cache
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\Student-Grade-Calculator.AssemblyInfo.cs
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\Student-Grade-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\Student-Grade-Calculator.dll
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\refint\Student-Grade-Calculator.dll
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\Student-Grade-Calculator.pdb
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\Student-Grade-Calculator.genruntimeconfig.cache
+C:\Users\Kejdi\source\repos\Student-Grade-Calculator\Student-Grade-Calculator\obj\Debug\net8.0\ref\Student-Grade-Calculator.dll
